@@ -1,4 +1,6 @@
 # Getting Started with PSN-TASK
+<img width="1792" alt="Screenshot 2022-08-22 at 23 45 25" src="https://user-images.githubusercontent.com/52206344/186031790-911df89b-5092-48a3-808e-219aa907b76b.png">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
