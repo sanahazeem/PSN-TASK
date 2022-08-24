@@ -1,13 +1,13 @@
 import React from "react";
 import Header from "./components/Header";
 import { ResetStyles } from "./common/styles";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import LandingPage from "./Pages/LandingPage";
 import Layout from "./components/Layout";
 
 function App() {
   return (
-    <Router>
+    <BrowserRouter>
       <ResetStyles />
       <Header />
       <Layout>
@@ -15,7 +15,7 @@ function App() {
           <Route path="/" element={<LandingPage />} />
         </Routes>
       </Layout>
-    </Router>
+    </BrowserRouter>
   );
 }
 

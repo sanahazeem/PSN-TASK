@@ -73,7 +73,7 @@ const Header = (): ReactElement => {
           <StyledNav>
             {navList.map((navItem: navItem) => {
               return (
-                <StyledNavItem>
+                <StyledNavItem key={navItem.name}>
                   <StyledLink to="/" data-testid="about-nav-link">
                     {navItem.name}
                   </StyledLink>
