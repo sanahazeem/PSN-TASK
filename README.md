@@ -1,4 +1,6 @@
-# Getting Started with Create React App
+# Getting Started with PSN-TASK
+<img width="1792" alt="Screenshot 2022-08-22 at 23 47 29" src="https://user-images.githubusercontent.com/52206344/186031986-831234af-4961-43ac-9c57-e5a0026a590e.png">
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -6,7 +8,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start | yarn start`
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
